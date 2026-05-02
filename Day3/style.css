@@ -1,0 +1,15 @@
+.paragraph{
+    border: 8px ;
+    padding: 8px;
+
+    width: 50%;
+
+    color: black;
+    text-align: justify;
+
+    background-color: aliceblue;
+
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/060/843/811/small/close-up-of-raindrops-on-leaves-hd-background-luxury-hd-wallpaper-image-trendy-background-illustration-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,18 @@
+.date{
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    margin-top: 26%;
+    text-align: center;
+    font-size: 60px;
+}
+h2{
+
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    background: url(https://www.w3schools.com/w3images/wedding_couple.jpg)  no-repeat center/cover;
+    color:white
+}

@@ -1,0 +1,15 @@
+.color_white{
+    color:black; 
+       background-image : url(wp10275707-game-of-thrones-laptop-wallpapers.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  text-align:center;
+  display: flex;
+  justify-content:right;
+  align-items:baseline;
+  height :700px;
+  font-size: 140px;
+  padding-right: 80px;
+}
+

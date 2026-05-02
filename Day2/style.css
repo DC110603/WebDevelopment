@@ -1,0 +1,21 @@
+.color_blue{
+    color:blue;
+    
+}
+.color_red{
+    color:red;
+    
+}
+.color_green{
+    color: green;
+    background-color:black;
+}
+.color_orange{
+    color: orange;
+    
+}
+
+.image_welcome{
+    height: 800px;
+    width: 800.px;
+}

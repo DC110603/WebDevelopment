@@ -1,0 +1,8 @@
+.paragraph{
+    border-width: 10px;
+    border-color: pink;
+    padding: 12px;
+    border-style:solid;
+    text-align: justify;
+    width: 50%;
+}

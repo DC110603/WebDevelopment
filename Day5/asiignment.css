@@ -1,0 +1,23 @@
+form{
+
+    border: 2px solid black;
+    padding: 10PX;
+    width: 350px;
+    height: 350px;
+    margin-left: 38%;
+    border-radius: 12%;
+
+}
+form input{
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+    border: 2px solid grey;
+}
+h1{
+    text-align: center;
+    align-items: center;
+    color:blue;
+    margin-top: 200px;
+
+}

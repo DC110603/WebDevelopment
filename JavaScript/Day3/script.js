@@ -51,6 +51,18 @@
 // }
 
 
+// giving function a name[Anonymous function]
+// const fun = function(num1,num2){
+//return num1+num2
+//}
+
+// single line function
+// const fun = (num1,num2) => num1+num2
+// const fun = (num1,num2) => {
+//    return num1+num2
+//    }
+
+
 // switch case
 //  var num1 = 10;
 //  var num2 = 20;
